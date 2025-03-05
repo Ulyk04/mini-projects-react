@@ -1,0 +1,21 @@
+.title-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    gap: 200px;
+}
+.title-counter h1{
+    font-size: 500%;
+}
+.title-counter button{
+    width: 10%;
+    font-family: "Honk", system-ui;
+    font-size: 300%;
+    background-color: black;
+    cursor: pointer;
+    transition: linear 0.2s;
+}
+.title-counter button:hover{
+    background-color: rgb(71, 69, 69);
+}

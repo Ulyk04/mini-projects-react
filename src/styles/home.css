@@ -1,0 +1,16 @@
+.home-page{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title-home{
+    display: flex;
+    justify-content: center;
+    font-size: 350%;
+}
+.desc-home{
+    padding: 5%;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    margin-left: 20%;
+}

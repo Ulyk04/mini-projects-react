@@ -1,0 +1,26 @@
+.button-component img {
+    width: 50%;
+    animation: autoRotate 5s linear infinite;
+}
+
+@keyframes autoRotate {
+    from{
+        transform: rotate(0);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+.button-component button{
+    width: 40%;
+    font-family: "Honk", system-ui;
+    font-size: 300%;
+    background-color: rgb(162, 164, 165);
+    cursor: pointer;
+    transition: linear 0.2s;
+}
+.button-component button:hover{
+    transform: scale(1.1);
+    background-color: rgb(105, 108, 110);
+}
