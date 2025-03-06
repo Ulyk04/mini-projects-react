@@ -4,3 +4,29 @@
     margin-top: 7%;
     font-size: 500%;
 }
+.desc-list{
+    position: relative;
+    left: calc(42% - 100px );
+}
+.list-page{
+    overflow-x: hidden;
+}
+.list-page input{
+    width: 20%;
+    height: 50px;
+    font-size: 200%;
+    font-family: "Honk" , system-ui;
+}
+.list-page button{
+    width: 9%;
+    height: 40px;
+    font-size: 200%;
+    font-family: "Honk" , system-ui;
+    transition: 0.3s;
+}
+.list-page button:hover{
+    background-color: rgb(99, 83, 60);
+}
+.list-page p{
+    font-size: 200%;
+}
