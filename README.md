@@ -6,7 +6,7 @@ This repository contains mini projects created for self-development and learning
 
 1. **Counter** - A simple counter with increment and decrement functionality.
    
-   ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/images/counter.png)
+   ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/counter.png)
 
 2. **To-Do List** - A task list with options to add, delete, and mark tasks as completed.
 3. **Timer** - A timer with start, pause, and reset functionality.
