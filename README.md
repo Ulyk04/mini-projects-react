@@ -9,11 +9,30 @@ This repository contains mini projects created for self-development and learning
    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/counter.png)
 
 2. **To-Do List** - A task list with options to add, delete, and mark tasks as completed.
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/todo.png)
+   
 3. **Timer** - A timer with start, pause, and reset functionality.
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/timer.png)
+    
 4. **Search System** - A search system with real-time filtering.
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/search.png)
+
 5. **Login System** - A login form with validation.
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/login.png)
+
 6. **Gallery System with URL** - An image gallery with the ability to load images via URL.
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/galery.png)
+
 7. **Page with Theme** - A page with a light/dark theme switch.
+
+
+    ![Counter Project](https://raw.githubusercontent.com/Ulyk04/mini-projects-react/main/src/images/theme.png)
+
 
 ## 🛠️ How to Use?
 
